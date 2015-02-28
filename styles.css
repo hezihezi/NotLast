@@ -1,3 +1,9 @@
 #chart_div {
 	border:solid 10px blue
+}
+.col-md-3{
+	color:green
+}
+.col-md-12{
+	color:yellow
 };
