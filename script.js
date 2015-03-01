@@ -43,8 +43,10 @@
                        'height':800,
                        'hAxis':{}
                       };
-                      
+        
+        // add the red title Dates to the hAxis.
 		options.hAxis = horizontalTitle; 
+		// I can't make the gridlines work.
 		options.hAxis.gridlines = myGridlines;
 		
 
